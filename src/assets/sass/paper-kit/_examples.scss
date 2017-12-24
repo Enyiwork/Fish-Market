@@ -236,11 +236,15 @@
     }
 }
 .angular-logo{
-    max-width: 90px;
+    max-width: 590px;
     margin: -50px auto 45px;
+
 
     img{
         width: 100%;
+        border-radius: 15px;
+        box-shadow: 1px -5px 74px 8px #51bcda;
+
     }
 }
 .page-header{
